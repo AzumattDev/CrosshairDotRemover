@@ -1,0 +1,9 @@
+{
+  "name": "CrosshairDotRemover",
+  "version_number": "1.0.0",
+  "website_url": "https://discord.gg/Vd89cSgxNW",
+  "description": "Removes the tiny dot in the center of the screen when aiming down sights. Usually best seen when weapon swaying. The sight's dot is still there, just not the extra center dot.",
+  "dependencies": [
+    "SunkenlandModding-BepInExPack_Sunkenland-5.4.22"
+  ]
+}
